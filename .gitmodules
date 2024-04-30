@@ -1,0 +1,6 @@
+[submodule "com.ols.ecs"]
+	path = Packages/com.ols.ecs
+	url = https://gitlab.com/belousov1999/ols-ecs.git
+[submodule "com.ols.merge2"]
+	path = Packages/com.ols.merge2
+	url = https://gitlab.com/belousov1999/com.ols.merge2.git
