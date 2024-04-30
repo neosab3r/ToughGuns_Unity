@@ -1,7 +1,5 @@
 {
   "dependencies": {
-    "com.ols.ecs": "https://gitlab.com/belousov1999/ols-ecs.git",
-    "com.ols.merge2": "https://gitlab.com/belousov1999/com.ols.merge2.git",
     "com.unity.ai.navigation": "1.1.4",
     "com.unity.cinemachine": "2.9.7",
     "com.unity.collab-proxy": "2.0.5",
